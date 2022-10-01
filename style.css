@@ -1,0 +1,37 @@
+.header{
+    color:red;
+    background: gray;
+}
+* {
+    color:black;
+   /* background: url('images/bg1.jpg');
+    background-size: cover;*/
+}
+.About{
+    border:1px black solid;
+    /* border-radius: 5em; */
+}
+
+p.lead {
+    font-size: 1.5em;
+}
+.img-responsive{
+    height: 80vh;
+    width: 80vh;
+}
+.caption{
+    margin-top: 80px;
+}
+h2{
+    font-size: xx-large;
+    align-items: center;
+}
+p{
+    font-size: large;
+}
+.container{
+    margin-top: 5%;
+}
+div.col *{
+    color: white;
+}
